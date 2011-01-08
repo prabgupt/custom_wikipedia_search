@@ -1,0 +1,11 @@
+These samples will guide you on how to add wikipedia search on your web site and furthermore how to customize the search output, depending on need for your website. Also all the intra links available inside wikipedia content would be made to open inside your site only rather going to their actual WikiPedia page.
+
+Sample 1: wikiSearch.html
+
+This contains normal input text box and would display  wiki content on the same page after some customization in output.
+
+Sample 2: wikiSearch_2.html
+
+This would display wiki summary about the link text when clicked upon, in an inline popup appearing on the same page. Also all the internal links inside that would open in the same popup box rather going to respective wiki page.
+
+Detail description about code can be found at: http://www.golygon.com/2011/01/addingcustomizing-wikipedia-search-in-your-website/
